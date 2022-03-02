@@ -1,6 +1,7 @@
 **egyptian currency detection** for visually impaired people
 
-*we used dataset of egyptian iris:
+we used dataset of egyptian iris:
+
 https://www.kaggle.com/egyptiris/egyptian-currency
 
 examples of output:
