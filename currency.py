@@ -5,10 +5,7 @@ from time import time
 
 
 class egcurrency_detection:
-    """
-    Class implements Yolo5 model to make inferences on a youtube video using Opencv2.
-    """
-
+  
     def __init__(self, capture_index, model_name):
 
         self.capture_index = capture_index
@@ -18,11 +15,7 @@ class egcurrency_detection:
         print("Using Device: ", self.device)
 
     def get_video_capture(self):
-        """
-        Creates a new video streaming object to extract video frame by frame to make prediction on.
-        :return: opencv2 video capture object, with lowest quality frame available for video.
-        """
-
+       
         # return cv2.VideoCapture(self.capture_index)
 
         #use mobile as a webcam by ip camera application (live camera)
