@@ -1,4 +1,4 @@
-**egyptian currency detection** for visually impaired people
+***egyptian currency detection for visually impaired people***
 
 we used dataset of egyptian iris:
 
